@@ -1,0 +1,10 @@
+.jumbotron{
+    margin-top: 20px;
+    background-image: url(https://images.designtrends.com/wp-content/uploads/2015/11/30160126/Plain-Light-Backgrounds.jpg);
+    background-size: cover;
+    color: rgba(58, 65, 66, 0.836);
+}
+
+.well{
+    background-color: #50c8ffcb;
+}
